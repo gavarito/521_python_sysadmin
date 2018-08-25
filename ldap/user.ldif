@@ -1,0 +1,16 @@
+########################################################
+dn: uid=joseph.santos,dc=dexter,dc=com,dc=br
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid: joseph.santos
+sn: Joseph
+cn: Santos
+mail: joseph.santos@4linux.com.br
+mobile: 99999-9999
+telephoneNumber: 2222-2222
+description: "Analista de Infraestrutura DevOps"
+userPassword: 4linux
+#######################################################
+
